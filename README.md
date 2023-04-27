@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/KaanEh/Join-to-Create/total?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/KaanEh/Join-to-Create?style=social)
+
 https://nodejs.org/en
 
 - npm init
