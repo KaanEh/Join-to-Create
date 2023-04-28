@@ -25,4 +25,4 @@ node .
 ```
 
 <p align"central">Don't forget to include your Discord token and database link in config.json.</p>
-<img src="https://i.imgur.com/bm3XKjj.png" width="30%"/>
+<img src="https://i.imgur.com/bm3XKjj.png" width="50%"/>
