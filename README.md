@@ -1,7 +1,7 @@
 ![img](https://img.shields.io/badge/Discord.JS-^14.9.0-orange?style=plastic)
 ![img](https://img.shields.io/badge/mongoose-6.0.2-orange?style=plastic)
 
-<h1 align="center">Join to Create</h1>
+<h1 align="center">🔈 Join to Create 🔈</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/Nexdwvj.gif" />
