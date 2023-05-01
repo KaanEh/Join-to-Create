@@ -12,10 +12,10 @@ Plus, you can set up multiple voice channels with Join-To-Create for ultimate fl
 
 Try Join-To-Create today and enjoy the benefits of effortless voice channel management on Discord!
 
-
   <p align="center">
   <img src="https://i.imgur.com/JqMsKSQ.gif" />
 
+    
 ---
 
 <h2>Install</h1>
